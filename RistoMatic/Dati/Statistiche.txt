@@ -1,0 +1,11 @@
+
+GIORNO GENERAZIONE STATISTICA : 07 Jul 2022 <bound method StatisticheGestionali.generaStatistiche of <RistoMatic.GestioneAmministrativa.StatisticheGestionali.StatisticheGestionali object at 0x0000019DD567C6D0>>
+
+GIORNO GENERAZIONE STATISTICA : 07 Jul 2022 <bound method StatisticheEconomiche.generaStatistiche of <RistoMatic.GestioneAmministrativa.StatisticheEconomiche.StatisticheEconomiche object at 0x0000019DDA3F0310>>
+
+GIORNO GENERAZIONE STATISTICA : 07 Jul 2022 <bound method StatisticheGestionali.generaStatistiche of <RistoMatic.GestioneAmministrativa.StatisticheGestionali.StatisticheGestionali object at 0x0000019DDA2AD240>>
+
+GIORNO GENERAZIONE STATISTICA : 09 Jul 2022 <bound method StatisticheGestionali.generaStatistiche of <RistoMatic.GestioneAmministrativa.StatisticheGestionali.StatisticheGestionali object at 0x000001FF85DDC130>>
+
+GIORNO GENERAZIONE STATISTICA : 09 Jul 2022 <bound method StatisticheGestionali.generaStatistiche of <RistoMatic.GestioneAmministrativa.StatisticheGestionali.StatisticheGestionali object at 0x0000020813F76CB0>>
+
